@@ -1,4 +1,4 @@
-<h1>Hamburger Mnu</h1>
+<h1>Hamburger Menu</h1>
 
 <h3>Kullanılan teknolojiler</h3>
 
