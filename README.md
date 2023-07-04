@@ -6,4 +6,4 @@
 
 <h4>Çalışır Hali</h4>
 
-![](hamburger.gif)
+![](hamburger.gif.gif)
